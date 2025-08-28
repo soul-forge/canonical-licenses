@@ -1,0 +1,23 @@
+{
+  "Apache-2.0": {
+    "cid": "bafkreibyisia-yqk_avjmb2xgxt_cwy1vjid4r0hjf0kx31he",
+    "protocol": "ipfs",
+    "hash_algorithm": "sha256",
+    "size": 3512,
+    "timestamp": "2025-08-28T20:51:20.041Z"
+  },
+  "ISC": {
+    "cid": "bafkreixaqhyktgf_kkad0pc9cvonn0ixtvakd20t_kaigcng0",
+    "protocol": "ipfs",
+    "hash_algorithm": "sha256",
+    "size": 742,
+    "timestamp": "2025-08-28T20:51:20.052Z"
+  },
+  "MIT": {
+    "cid": "bafkreipazxnne2dxxwxfidugyn1gpvpefjtuyoyzoi3yegg94",
+    "protocol": "ipfs",
+    "hash_algorithm": "sha256",
+    "size": 1068,
+    "timestamp": "2025-08-28T20:51:20.052Z"
+  }
+}
